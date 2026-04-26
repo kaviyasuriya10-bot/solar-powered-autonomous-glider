@@ -85,6 +85,8 @@ The solar panels are used to supplement battery power and extend flight time, no
 
 solar panels sourced locally at reduced cost
 
+Solar panels are used to supplement battery power and extend flight time, not to fully power the aircraft.
+
 ## Badges Justification
 
 CAD: Airframe designed using CAD modeling for aerodynamic structure.
