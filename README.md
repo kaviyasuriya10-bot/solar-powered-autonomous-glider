@@ -1,3 +1,5 @@
+Note: Repository was renamed. If you accessed via an older link, it will redirect automatically.
+
 ## Overview
 
 This project presents the design and development of a solar-powered autonomous glider with futur AI-based monitoring capabilities. The system integrates renewable energy, embedded electronics, and flight control to enable efficient and long-endurance aerial operation.
