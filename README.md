@@ -16,6 +16,9 @@ The glider uses solar panels to supplement battery power, extending flight durat
 This diagram shows the structural layout of the glider including fuselage, wings, and tail assembly designed for aerodynamic efficiency and component integration
 ---
 
+## CAD File
+
+[Download Full CAD Model](https://drive.google.com/file/d/1_gB1SvY8AsrG2-pXnZ_b1x8_ZGgdIqoA/view?usp=sharing)
 ## Key Features
 
 * Solar-assisted power system for extended endurance
