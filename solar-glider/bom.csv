@@ -1,14 +1,15 @@
 Component,Quantity,Cost (USD)
-Pixhawk Flight Controller,1,70
-Brushless Motor (2212),1,7
-ESC (30A),1,7
-Servo Motor (9g),3,6
-LiPo Battery (3S 2200mAh),1,22
-Flexible Solar Panels,1,4
-CN3722 MPPT Module,1,5
-UBEC (5V 3A),1,5
-Radiolink AT9S Pro (Tx+Rx),1,107
-Eclipson Airframe (3D printed),1,30
-i max battery cahger,1,5  
+Pixhawk Flight Controller,1,90
+Brushless Motor (2212),1,10
+ESC (30A),1,10
+Servo Motor (9g),3,10
+LiPo Battery (3S 2200mAh),1,30
+Flexible Solar Panels,1,20
+CN3722 MPPT Module,1,10
+UBEC (5V 3A),1,10
+Radiolink AT9S Pro (Tx+Rx),1,120
+Eclipson Airframe (3D printed),1,60
+i max battery cahger,1,10 
+(+some extra expens like shipping,other components if required)
 
-Total,,268
+Total,,380 (excluding the extra expenses)
