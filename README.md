@@ -15,6 +15,12 @@ The glider uses solar panels to supplement battery power, extending flight durat
 
 <img width="1366" height="768" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/42bd2373-32a3-4f3f-b5ab-5cfe9d082f5c" />
 
+<img width="1836" height="4080" alt="pic 2" src="https://github.com/user-attachments/assets/c487c9e6-f817-45ba-84d4-c49bd896999e" />
+
+<img width="1555" height="2491" alt="pic 1" src="https://github.com/user-attachments/assets/c384f91d-01d4-46e6-8b93-5f22ef5d9fc3" />
+
+
+
 This diagram shows the structural layout of the glider including fuselage, wings, and tail assembly designed for aerodynamic efficiency and component integration
 ---
 
